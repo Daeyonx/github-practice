@@ -1,1 +1,1 @@
-# github-practiceThis repository is for practciing GitHub.
+ this repo is for practicing Github.
